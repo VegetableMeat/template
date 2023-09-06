@@ -5,7 +5,8 @@
 # コミットスタイルについて
 コミットメッセージのプレフィックスは絵文字にします🎉  
 コミットテンプレートを自分なりに作ったよ、必要なものを別途追記してね  
-.commit_templateは `C:\Users\○○` に配置（○○は自身のPCのユーザ名）
+.commit_templateは `C:\Users\○○` に配置（○○は自身のPCのユーザ名）  
+`git config --global commit.template ~/.commit_template` で適用
 
 [.commit_template](https://github.com/VegetableMeat/template/blob/main/commit_template)  
 [コミットスタイル](https://zenn.dev/ianchen0419/articles/99564425e43dd4)  
