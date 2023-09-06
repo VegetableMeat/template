@@ -1,0 +1,25 @@
+
+
+
+# ==== Prefix ====
+# fix
+# feat
+# docs
+# style
+# refactor
+# test
+# chore
+
+# ==== Emojis ====
+# :sparkles:    部分的な機能追加 (feat)
+# :tada:        盛大に祝うべき大きな機能追加 (feat)
+# :+1:          機能改善 (fix/feat)
+# :notebook:        ドキュメント修正 (docs)
+# :bug:         バグ修正 (fix)
+# :rocket:      パフォーマンス改善 (feat)
+# :shower:      不要な機能・使われなくなった機能の削除 (refactor)
+# :recycle:     リファクタリング (refactor)
+# :cop:         セキュリティ関連の改善 (feat)
+# :shirt:       Lintエラーの修正やコードスタイルの修正 (style)
+# :green_heart: テストやCIの修正・改善 (test)
+# :up:          依存パッケージなどのアップデート (chore)
